@@ -1,0 +1,23 @@
+{
+  "dangerouslyAllowAllPermissions": false,
+  "allowedTools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Glob",
+    "Grep",
+    "Bash",
+    "AskUserQuestion",
+    "Task",
+    "Skill"
+  ],
+  "allowedPrompts": [
+    "superpowers:*",
+    "playwright-skill:*"
+  ],
+  "alwaysAllowReadOnly": true,
+  "alwaysAllowWrite": true,
+  "alwaysAllowBash": false,
+  "alwaysAllowWriteFromFileUpload": false,
+  "maxNumberOfToolUseIterationsPerTurn": 50
+}

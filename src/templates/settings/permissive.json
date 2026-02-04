@@ -1,0 +1,9 @@
+{
+  "dangerouslyAllowAllPermissions": true,
+  "allowedTools": [],
+  "allowedPrompts": [],
+  "alwaysAllowReadOnly": true,
+  "alwaysAllowWrite": true,
+  "alwaysAllowBash": true,
+  "alwaysAllowWriteFromFileUpload": true
+}
