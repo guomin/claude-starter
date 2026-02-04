@@ -1,5 +1,5 @@
 const inquirer = require('inquirer');
-const chalk = require('chalk');
+const chalk = require('chalk').default;
 
 /**
  * 提示用户输入缺失的选项

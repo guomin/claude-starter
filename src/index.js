@@ -1,7 +1,7 @@
 const path = require('path');
 const fs = require('fs-extra');
-const chalk = require('chalk');
-const ora = require('ora');
+const chalk = require('chalk').default;
+const ora = require('ora').default;
 const { validateProjectName, backupFile } = require('./utils/file-handler');
 const { writeConfigFiles, readClaudeMdFromFile } = require('./generators/config-generator');
 const { promptForMissingOptions, promptForConfirmation } = require('./prompts/interactive');
