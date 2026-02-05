@@ -1,5 +1,10 @@
 # @betterai.group/claude-starter
 
+[![npm version](https://badge.fury.io/js/%40betterai.group%2Fclaude-starter.svg)](https://www.npmjs.com/package/@betterai.group%2Fclaude-starter)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub release](https://img.shields.io/github/release/guomin/claude-starter)](https://github.com/guomin/claude-starter/releases)
+[![GitHub stars](https://img.shields.io/github/stars/guomin/claude-starter?style=social)](https://github.com/guomin/claude-starter)
+
 > 快速初始化 Claude Code 配置的脚手架工具
 
 ## 特性
